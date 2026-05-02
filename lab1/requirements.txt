@@ -20,10 +20,12 @@ idna==3.13
 ipykernel==7.2.0
 ipython==9.13.0
 ipython_pygments_lexers==1.1.1
+ipywidgets==8.1.8
 jedi==0.19.2
 joblib==1.5.3
 jupyter_client==8.8.0
 jupyter_core==5.9.1
+jupyterlab_widgets==3.0.16
 kagglehub==1.0.1
 kagglesdk==0.1.22
 keras==3.14.0
@@ -73,4 +75,5 @@ typing_extensions==4.15.0
 urllib3==2.6.3
 wcwidth==0.6.0
 wheel==0.47.0
+widgetsnbextension==4.0.15
 wrapt==2.1.2
